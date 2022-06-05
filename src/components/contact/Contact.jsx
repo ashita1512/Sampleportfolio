@@ -39,8 +39,8 @@ const Contact = () => {
              <article className='contact_option'>
                <FaWhatsapp className='contact_option-icon'/>
                <h4>WhatsApp</h4>
-               <h5>+91 70871 68802</h5>
-               <a href='https://wa.me/917087168802?text=Hello! Chhavi' target='_blank'>Send a message</a>
+               <h5>+91 XXXXX XXXXX</h5>
+               <a href='https://wa.me/XXXXXXXXXX?text=Hello! Chhavi' target='_blank'>Send a message</a>
              </article>
           </div> 
           <form ref={form} onSubmit = {sendEmail}>
